@@ -2,8 +2,6 @@
 
 Aims:
 - to make experiments about machine learning algorithms
-- to practice data mining skills
-- to share knowledge with friends
 
 ## Contributing
 
