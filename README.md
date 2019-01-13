@@ -1,6 +1,6 @@
 > Loss, is that sensation you feel  
-> at the end of a long relationship,  
-> is a measure of how badly we did.  
+> at the end of a long relationship.  
+> It is a measure of how badly we did.  
 > -- Ashi Krishnan  
 
 # learners
