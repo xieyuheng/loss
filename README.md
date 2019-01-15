@@ -3,10 +3,11 @@
 > It is a measure of how badly we did.  
 > -- Ashi Krishnan  
 
-# learners
+# Loss
 
 Aims:
 - to make experiments about machine learning algorithms
+- to practice data mining skills
 
 ## Contributing
 
