@@ -1,4 +1,4 @@
 #+title: todo
 
-* stochastic gradient descent v.s. batch gradient descent
+* stochastic gradient descent vs. batch gradient descent
 * logistic_regression
